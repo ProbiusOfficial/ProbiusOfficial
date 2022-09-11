@@ -27,6 +27,7 @@ Here are some ideas to get you started:
    - [【下载页-仿明日方舟粒子特效】Download](https://github.com/ProbiusOfficial/Download)
 - 💻Other Projects (Closed Source)：
    - [【Arknights-罗德岛移动终端】RIMT](https://github.com/ProbiusOfficial/RIMT_V4.0)  [【视频】RIMT](https://www.bilibili.com/video/BV1mv4y1N7xx)
+   - [【ArkFlarum 论坛】](https://bbs.arktoolbox.jamsg.cn/)
 
 ### 
 ![Probius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProbiusOfficial&include_all_commits=true)
