@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### 嗨嗨~ 这里是探姬哦ww
 - 🖊️AboutMe：
    - 🔭一位要素过多 练习时长两年半的 全自动WA机 妄想全栈 fw CTFer
-   - 🌱网络空间安全在修
+   - 🌱网络空间安全专业ww
 - 🔎MyPage:
    - [【语雀】Yuque](https://www.yuque.com/probius)
    - [【博客】Blog](http://hexo.probius.xyz/)
