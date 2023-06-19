@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 -->
 ## About Me
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProbiusOfficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-![Probius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProbiusOfficial&include_all_commits=true)  
+```
+你好啊，我叫探姬，ID @ Probius / ProbiusOfficial
+```   
+
 - CTFer | Security Researcher | Developer | Vtuber
 - Founder of [LitCTF](https://github.com/ProbiusOfficial/LitCTF)
 - 网络空间安全专业 | Major in CyberSecurity
@@ -24,13 +27,12 @@ Here are some ideas to get you started:
 - Vtuber@[Bilibili](https://space.bilibili.com/27109929) | BiliBili
 - [Blog](http://blog.probius.xyz/) | Blog  
 
+## My Projects
 ```
 兴趣使然的开源爱好者，我的知识来源于开源社区，同样的，我也愿意用开源回馈社区。
 不想卷入奇怪的利益纷争，只想安安静静的做自己喜欢的事情。
 致力于CTF和网络安全的开源生态，尝试用自己的方式留住世界的美好。
-
-```  
-## My Projects
+```
 - 🏴 CTF & ⚔ Security
    - [CTF-QuickStart | CTF快速入门手册](https://github.com/ProbiusOfficial/CTF-QuickStart)
    - [CTFtime | 国内外CTF赛事聚合API](https://github.com/ProbiusOfficial/CTFtime)
@@ -52,3 +54,5 @@ Here are some ideas to get you started:
 ```
 一个致力于在中国大陆范围内整合赛事题目、复现Docker环境的组织，一切皆了更好的、更开放的CTF学习环境。
 ```
+
+![Probius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProbiusOfficial&include_all_commits=true)  
