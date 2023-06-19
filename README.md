@@ -12,25 +12,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 嗨嗨~ 这里是探姬哦ww
-- 🖊️AboutMe：
-   - 🔭 CTFer@Web | Blue team | Red team | try to be a good developer and make world better. 
-   - 🌱 Major in CyberSecurity
-- 🔎MyPage:   
-   - [【博客】Blog](http://blog.probius.xyz/)
-   - [【语雀<DOWN>】Yuque](https://www.yuque.com/probius)
-   - [【B站】BiliBili](https://space.bilibili.com/27109929)
-- 💻Projects (Full Score)：
-   - [【bashfuck】exec BashCommand with only ! # $ ' ( ) < \ { } just 10 charset ](https://github.com/ProbiusOfficial/bashFuck)
-
-- 💻Other Projects (Closed Source)：
-   - [【Arknights-罗德岛移动终端】RIMT](https://github.com/ProbiusOfficial/RIMT_V4.0)  [【视频】RIMT](https://www.bilibili.com/video/BV1mv4y1N7xx)
-   - [【ArkFlarum 论坛】](https://bbs.arktoolbox.jamsg.cn/) 【DOWN For some reason】
-                                                          
-- 💻In Process：  
-   - 【filterChain-tools】A Exploit based on FilterChain 一款基于FilterChain的综合利用工具
-
-### 
+## About Me
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProbiusOfficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Probius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProbiusOfficial&include_all_commits=true)  
-      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProbiusOfficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- CTFer | Security Researcher | Developer | Vtuber
+- Founder of [LitCTF](https://github.com/ProbiusOfficial/LitCTF)
+- 网络空间安全专业 | Major in CyberSecurity
+- 星际玩家 钻石组 Rank *107* MMR *3498* 忠诚的RTS玩家x | RTS Player
+- “愿你如世界美好一般，永远闪耀” | "May you, the beauty of this world, always shine."    
+- 推特@[ProbiusOfficial](https://twitter.com/ProbiusOfficial) | Twitter
+- Vtuber@[Bilibili](https://space.bilibili.com/27109929) | BiliBili
+- [Blog](http://blog.probius.xyz/) | Blog  
+
+```
+兴趣使然的开源爱好者，我的知识来源于开源社区，同样的，我也愿意用开源回馈社区。
+不想卷入奇怪的利益纷争，只想安安静静的做自己喜欢的事情。
+致力于CTF和网络安全的开源生态，尝试用自己的方式留住世界的美好。
+
+```  
+## My Projects
+- 🏴 CTF & ⚔ Security
+   - [CTF-QuickStart | CTF快速入门手册](https://github.com/ProbiusOfficial/CTF-QuickStart)
+   - [CTFtime | 国内外CTF赛事聚合API](https://github.com/ProbiusOfficial/CTFtime)
+   - [Invitation-generating | CTF邀请函生成器](https://github.com/ProbiusOfficial/Invitation-generating)
+   - [Sectool | CTF和实战渗透工具仓库](https://github.com/ProbiusOfficial/SecTool)
+   - [Cybersecurity-StartGuide | 网络安全入门指南](https://github.com/ProbiusOfficial/Cybersecurity-StartGuide)
+   - [PhishingBook | 钓鱼攻击资源汇总&备忘录](https://github.com/tib36/PhishingBook)
+   - [bashFuck | Bash无字母命令执行](https://github.com/ProbiusOfficial/bashFuck)
+
+- 💻 re-creation
+   - [RIMT | 罗德岛移动终端](https://www.bilibili.com/video/BV1mv4y1N7xx)
+   - [【ArkFlarum 论坛】](https://bbs.arktoolbox.jamsg.cn/) 
+                                                          
+- 👁️‍🗨️ 其他项目
+   - [ConsoleGameEngine | 控制台游戏引擎](https://github.com/EmptyDreams/ConsoleGameEngine)
+
+## My Team
+- [CTF-Archives](https://github.com/CTF-Archives)
+```
+一个致力于在中国大陆范围内整合赛事题目、复现Docker环境的组织，一切皆了更好的、更开放的CTF学习环境。
+```
