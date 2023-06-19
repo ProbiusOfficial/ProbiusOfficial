@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - 网络空间安全专业 | Major in CyberSecurity
 - 星际玩家 钻石组 Rank *107* MMR *3498* 忠诚的RTS玩家x | RTS Player
 - “愿你如世界美好一般，永远闪耀” | "May you, the beauty of this world, always shine."    
-- 推特@[ProbiusOfficial](https://twitter.com/ProbiusOfficial) | Twitter
-- Vtuber@[Bilibili](https://space.bilibili.com/27109929) | BiliBili
-- [Blog](http://blog.probius.xyz/) | Blog  
+- Twitter@[ProbiusOfficial](https://twitter.com/ProbiusOfficial) 
+- Vtuber@[Bilibili](https://space.bilibili.com/27109929) 
+- [Blog](http://blog.probius.xyz/) 
 
 ## My Projects
 ```
