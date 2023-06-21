@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 致力于CTF和网络安全的开源生态，尝试用自己的方式留住世界的美好。
 ```
 - 🏴 CTF & ⚔ Security
+   - [Sectool | CTF和实战渗透工具仓库](https://github.com/ProbiusOfficial/SecTool)
    - [CTF-QuickStart | CTF快速入门手册](https://github.com/ProbiusOfficial/CTF-QuickStart)
    - [CTFtime | 国内外CTF赛事聚合API](https://github.com/ProbiusOfficial/CTFtime)
-   - [Invitation-generating | CTF邀请函生成器](https://github.com/ProbiusOfficial/Invitation-generating)
-   - [Sectool | CTF和实战渗透工具仓库](https://github.com/ProbiusOfficial/SecTool)
+   - [Invitation-generating | CTF邀请函生成器](https://github.com/ProbiusOfficial/Invitation-generating)  
    - [Cybersecurity-StartGuide | 网络安全入门指南](https://github.com/ProbiusOfficial/Cybersecurity-StartGuide)
    - [PhishingBook | 钓鱼攻击资源汇总&备忘录](https://github.com/tib36/PhishingBook)
    - [bashFuck | Bash无字母命令执行](https://github.com/ProbiusOfficial/bashFuck)
