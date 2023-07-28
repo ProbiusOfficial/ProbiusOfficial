@@ -54,5 +54,4 @@ Here are some ideas to get you started:
 ```
 一个致力于在中国大陆范围内整合赛事题目、复现Docker环境的组织，一切皆了更好的、更开放的CTF学习环境。
 ```
-
-![Probius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProbiusOfficial&include_all_commits=true)  
+![Probius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProbiusOfficial&include_all_commits=true&hide_border=true) 
