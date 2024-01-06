@@ -4,7 +4,7 @@
 ```
 
 - CTFer | CTF Author| Security Researcher | Developer | Vtuber
-- Leader of [Hello CTF](https://github.com/ProbiusOfficial/CTF-QuickStart)
+- Leader of [Hello CTF](https://github.com/ProbiusOfficial/Hello-CTF)
 - 网络空间安全专业 | Major in CyberSecurity
 - 星际玩家 钻石组 Rank *107* MMR *3498* 忠诚的RTS玩家x | RTS Player
 - “愿你如世界美好一般，永远闪耀” | "May you, the beauty of this world, always shine."    
