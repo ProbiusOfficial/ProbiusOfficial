@@ -18,6 +18,9 @@
 > "I build,therefore I am."
 
 ## 一些项目 / some project
+
+<img align='right' src="assets/logo-long.png" width="400">
+
 > 因为热爱，所以长久。
 
 <details>
@@ -53,6 +56,7 @@
 </details>
 
 ## 我在哪？/my team
+
 - [CTF-Archives](https://github.com/CTF-Archives)：一个致力于在中国大陆范围内整合赛事题目、复现Docker环境的组织，一切皆了更好的、更开放的CTF学习环境。
 
 - [Web3-Club](https://github.com/Web3-Club)：独立自由公益的Web3开源社区 始终致力于 Web3相关中文知识的传播建设与发展。
@@ -62,3 +66,7 @@
 <div align="center"> <img width="400" src="https://count.kjchmc.cn/get/@:ProbiusOffcial?theme=gelbooru" /> </div>
 
 感谢你能来访问我的主页，希望我的项目能够帮助到你ww
+
+![image](https://github.com/user-attachments/assets/b7939d10-44c9-4fa1-9af3-04db6f8bd206)
+
+
