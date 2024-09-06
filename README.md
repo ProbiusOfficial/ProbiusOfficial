@@ -19,7 +19,7 @@
 
 ## 一些项目 / some project
 
-<img align='right' src="assets/logo-long.png" width="400">
+<img align='right' src="assets/logo-longwithfornt.png" width="400">
 
 > 因为热爱，所以长久。
 
