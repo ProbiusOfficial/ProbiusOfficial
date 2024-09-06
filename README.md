@@ -51,8 +51,19 @@
 + [【bashFuck】bash命令混淆生成器](https://github.com/ProbiusOfficial/bashFuck)。
 + [【TCL】腾讯云抢占实例监听器](https://github.com/ProbiusOfficial/TCL)。
 + [【frp-R3shell】基于樱花Frp的远端Shell监听器](https://github.com/ProbiusOfficial/frp-R3shell)。
-+ [【CTF-tricks】CTF tirick 备忘录](https://github.com/ProbiusOfficial/CTF-tricks)。
 
+</details>
+
+<details>
+<summary>📝ToDo</summary>
+
++ [【CTF-OS 正式版】](https://github.com/ProbiusOfficial/CTF-OS)
++ [【CTF-tricks】CTF tirick 备忘录](https://github.com/ProbiusOfficial/CTF-tricks)。
++ 【Nodejs-0t1】从0开始的原型链污染系列题目
++ [【miniSQLi】对新手更友好的SQL注入靶场](https://github.com/ProbiusOfficial/miniSQLi)
++ [【n3tfl0w-labs】流量分析靶场](https://github.com/ProbiusOfficial/n3tfl0w-labs)
++ [【Steg-labs】隐写相关的分析靶场](https://github.com/ProbiusOfficial/Steg-labs)
++ [【PHPFeature-labs】PHP特性总结](https://github.com/ProbiusOfficial/PHPFeature-labs)
 </details>
 
 ## 我在哪？/my team
