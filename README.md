@@ -41,6 +41,8 @@
 + [【PHPinclude-labs】PHP文件包含靶场](https://github.com/ProbiusOfficial/PHPinclude-labs)。
 + [【RCE-labs】RCE-命令与代码执行靶场](https://github.com/ProbiusOfficial/RCE-labs)。
 + [【ctf2awd】拆分awd为多个ctf，以此来分步学习每一项工作](https://github.com/ProbiusOfficial/ctf2awd)。
++ [【hello-ssrf】从协议，场景，绕过等多个ssrf攻击的基础维度展开的ssrf靶场](https://github.com/ProbiusOfficial/hello-ssrf)。
++ [【ssrf-labs】ssrf的综合靶场，包含RCE，SQL注入，Tomcat，Redis，MySQL提权等ssrf攻击场景](https://github.com/ProbiusOfficial/ssrf-labs)
 
 </details>
 
@@ -64,6 +66,7 @@
 + [【n3tfl0w-labs】流量分析靶场](https://github.com/ProbiusOfficial/n3tfl0w-labs)
 + [【Steg-labs】隐写相关的分析靶场](https://github.com/ProbiusOfficial/Steg-labs)
 + [【PHPFeature-labs】PHP特性总结](https://github.com/ProbiusOfficial/PHPFeature-labs)
++ [【CTFLabX-OS】开箱即用的多靶场集成虚拟机](https://github.com/ProbiusOfficial/CTFLabX-OS)
 </details>
 
 ## 我在哪？/my team
